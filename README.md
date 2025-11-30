@@ -17,6 +17,16 @@ It allows users to enter their date of birth and instantly calculate their **age
 
 ---
 
+## 📁 Folder Structure
+
+age-calculator/
+│── index.html
+│── style.css
+│── script.js
+└── README.md
+
+---
+
 ## 🛠️ Technologies Used
 
 - 🌐 **HTML** — Structure  

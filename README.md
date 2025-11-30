@@ -1,42 +1,54 @@
-🧮 Age Calculator
+# 🧮 Age Calculator App
 
-A simple and interactive Age Calculator application that allows users to enter their date of birth and instantly calculate their current age in years, months, and days.
-This project is great for beginners practicing JavaScript, DOM manipulation, and date handling.
+A simple and interactive **Age Calculator Application** made using **HTML, CSS, and JavaScript**.  
+It allows users to enter their date of birth and instantly calculate their **age in years, months, and days**.
 
-🚀 Features
+---
 
-✔️ Calculate accurate age from Date of Birth
+## 🚀 Features
 
-✔️ Shows Years, Months, Days
+- 🎯 Calculates **accurate age**
+- 📅 Input: Date of Birth
+- 📆 Output: Years, Months, Days
+- ⚡ Instant result (real-time calculation)
+- ❌ Validation for empty / invalid dates
+- 📱 Clean & responsive UI
+- 🧩 Beginner-friendly JavaScript logic
 
-✔️ Clean and user-friendly UI
+---
 
-✔️ Real-time validation
+## 🛠️ Technologies Used
 
-✔️ Lightweight and fast
+- 🌐 **HTML** — Structure  
+- 🎨 **CSS** — Styling  
+- ⚙️ **JavaScript** — Age calculation logic  
 
-✔️ Beginner-friendly JavaScript project
+---
 
-📘 How It Works
+## ▶️ How to Use
 
-User enters a valid date of birth.
+1. Open the app in your browser  
+2. Enter your **Date of Birth**  
+3. Click on **Calculate**  
+4. Instantly see:
+   - 🎉 Your Age in Years  
+   - 📆 Months  
+   - 📅 Days  
 
-JavaScript function calculates the difference between the entered date and today’s date.
+---
 
-The output is displayed in the format:
+## 🧠 How It Works (Logic)
 
-You are X Years, Y Months, Z Days old.
+- Takes the selected birth date  
+- Compares it with today’s date  
+- Calculates:
+  - Difference in **years**
+  - Difference in **months**
+  - Difference in **days**
+- Displays formatted output to the user
 
-▶️ How to Run Locally
+---
 
-Download or clone the repository
+## 📜 License
 
-git clone https://github.com/your-username/age-calculator.git
-
-Open the project folder
-
-Run the index.html file in your browser
-
-Enter your date of birth
-
-See your exact age instantly!
+This project is open-source and available under the **MIT License**.
